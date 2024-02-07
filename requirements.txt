@@ -1,0 +1,7 @@
+diffusers
+transformers
+scipy
+ftfy
+python-telegram-bot
+python-dotenv
+huggingface_hub
